@@ -4,34 +4,17 @@ These are my solutions to various physics texts. For me about me, [visit my webs
 
 ## Demo
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+I made the soutions in LaTeX in a "dark mode" color scheme. Here's an example:
 
-## Prerequisites
+![Solution Example Demo](./website-demo-image/example.png "Example Demo")
 
-Before you begin, ensure you have met the following requirements:
+## Disclaimer
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+Please support the amazing authors by purchasing the text. They are hallmarks of physics education and deserve to be on your bookshelf.
 
-## Installing vCard
+The actual solution may differ from my own shown here.
 
-To install **vCard**, follow these steps:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+I warmly welcome any corrections to errors I have made!
 
 ## License
 
