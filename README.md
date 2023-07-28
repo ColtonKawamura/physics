@@ -1,6 +1,6 @@
 # My Physics Textbook Solutions
 
-These are my solutions to various physics texts. For me about me, [visit my website](https://coltonkawamura.github.io/coltonkawamura/)
+These are my solutions to various physics texts. For more about me, [visit my website](https://coltonkawamura.github.io/coltonkawamura/)
 
 ## Demo
 
