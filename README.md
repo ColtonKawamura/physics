@@ -11,6 +11,9 @@ I made the soutions in LaTeX in a "dark mode" color scheme. Here's an example:
 ## Textbook Solutions
 
 [Griffiths Electrodynamics Fourth Eddition](https://github.com/ColtonKawamura/physics/tree/main/Electrodynamics%20-%20Griffiths)
+
+[Taylor Classical Mechanics](https://github.com/ColtonKawamura/physics/tree/main/Classical%20Mechancs%20-%20Taylor)
+
 ## Disclaimer
 
 Please support the amazing authors by purchasing the text. They are hallmarks of physics education and deserve to be on your bookshelf.
